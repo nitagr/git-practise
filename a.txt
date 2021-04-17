@@ -6,3 +6,4 @@ second --changes from dev1
 1 changes from master
 
 first --change from dev3
+second -- changes from dev3
