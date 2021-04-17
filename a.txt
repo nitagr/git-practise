@@ -7,3 +7,4 @@ second --changes from dev1
 
 first --change from dev3
 second -- changes from dev3
+third --change from dev3
