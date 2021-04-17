@@ -1,3 +1,5 @@
 new txt file
 first --  change through dev2 branch
 second -- change through dev2 branch
+first -- changes from dev1
+1 changes from master
